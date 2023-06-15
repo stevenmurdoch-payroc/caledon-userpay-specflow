@@ -1,0 +1,11 @@
+{
+  "terminal_id": "BPQACFEE",
+  "transaction_type": "fee_calculate",
+  "fee_reference": "SpecflowUserPayRef",
+  "payment": {
+    "amount": 2000
+  },
+  "card_information": {
+    "card_number": "4111111111111111"
+  }
+}

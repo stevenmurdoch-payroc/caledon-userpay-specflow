@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <RunConfiguration>
+    <EnvironmentVariables>
+      <API_URL>https://web-dev.caledoncard.com/convfee/</API_URL>
+      <API_KEY>be910fc50d7d3986d93ca044433be8dee4edd2951d4f823953a109acf7fdf237</API_KEY>
+      <API_USER_ID>Ymx1ZXBheWNhbmFkYS0wMDAx</API_USER_ID>
+    </EnvironmentVariables>
+  </RunConfiguration>
+  <TestRunParameters>
+  </TestRunParameters>
+</RunSetting s>

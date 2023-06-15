@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7c1416ee_002D5770_002D4c97_002D8988_002D2dd3a7adf739/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Perform a Fee Calculation Transaction" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::44ED75FE-D1F5-4512-BE36-4B02D20D4595::net6.0::Userpay.Features.UserpayTransactionsFeature&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestRunner/EnvironmentVariablesIndexed/=API_005FKEY/@EntryIndexedValue">be910fc50d7d3986d93ca044433be8dee4edd2951d4f823953a109acf7fdf237</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestRunner/EnvironmentVariablesIndexed/=API_005FURL/@EntryIndexedValue">https://web-dev.caledoncard.com/convfee/</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestRunner/EnvironmentVariablesIndexed/=API_005FUSER_005FID/@EntryIndexedValue">Ymx1ZXBheWNhbmFkYS0wMDAx</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,12 @@
+{
+  "terminal_id": "BPQACONV",
+  "transaction_type": "fee_void",
+  "reference": "Specflow1",
+  "payment": {
+    "amount": 2000
+  },
+  "fee_reference_number": "DEL281-FeeCalc1",
+  "reference_number":"REFONE11",
+  "fee_amount":39,
+  "total_amount":"2039"
+}

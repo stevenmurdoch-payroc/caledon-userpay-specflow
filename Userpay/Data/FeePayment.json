@@ -1,0 +1,18 @@
+{
+  "terminal_id": "BPQACONV",
+  "transaction_type": "fee_payment",
+  "fee_reference_number": "12332",
+  "reference_number":"Specflow1",
+  "payment": {
+    "amount": 2000,
+    "fee_amount":39,
+    "total_amount":"2039"
+  },
+  "card_information": {
+    "card_number": "4111111111111111",
+    "expiry_year": 2019,
+    "expiry_month": 3,
+    "csc":200,
+    "avs_data":"123fakeK8N5W6"
+  }
+}
